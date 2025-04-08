@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/samuelandersen2/Piplines/_apis/build/status%2Fjoe483.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/samuelandersen2/Piplines/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
